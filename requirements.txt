@@ -1,0 +1,10 @@
+wget
+torch
+numpy
+pandas
+matplotlib
+scipy
+sklearn
+seaborn
+pyunpack
+patool
